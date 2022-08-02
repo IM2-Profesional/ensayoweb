@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Inter);
 :root { --butoncolor-text1: rgb(255, 255, 255); 
-        --fondos-boton1:rgb(33, 123, 244 );}
+        --fondos-boton1:rgb(33, 123, 244 );
+        --fondos-textos: }
 
 #encabezado {
    position: absolute;
@@ -2014,3 +2015,4 @@ top: 40px;
 * body{
    font-family: 'Inter',serif;
 }
+/*comentar*/ 
